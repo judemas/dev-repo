@@ -1,3 +1,6 @@
 [submodule "llvm"]
 	path = llvm
 	url = https://github.com/judemas/llvm-project
+[submodule "project"]
+	path = project
+	url = https://github.com/judemas/llvm-project.git
